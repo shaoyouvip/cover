@@ -17,6 +17,8 @@
       <a v-if="icpNumber" href="https://beian.miit.gov.cn/" target="_blank">{{ icpNumber }}</a>
       <button class="logo-btn" @click="toggleTips">小提示</button>
     </div>
+    <!-- Umami Analytics Script -->
+    <script defer src="https://umami.001315.xyz/script.js" data-website-id="2460ba62-c991-4831-a75b-b1911fd8eefd"></script>
   </footer>
   <!-- 小提示弹窗 -->
   <div class="tips-popup" :class="{ 'show': showTipsPopup }">
