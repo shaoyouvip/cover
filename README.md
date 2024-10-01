@@ -8,7 +8,7 @@ Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社�
 
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [预览](https://cover.ruom.top)
+- [预览](https://cover.001315.xyz/)
 
 ### 使用
 
@@ -52,4 +52,7 @@ npm run build
 
 >点击后自动部署并创建仓库
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JLinMr/Mini-Cover&repository-name=Mini-Cover)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/shaoyouvip/cover)
+
+## 鸣谢：
+[梦爱吃鱼](https://www.bsgun.cn/)
