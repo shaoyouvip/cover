@@ -13,8 +13,7 @@
     <span>诚信</span>
     <span>友善</span>
     <div class="icp">
-      <span>© 2024</span><a href="https://blog.aizrf.com/" target="_blank">周润发</a>
-      <a v-if="icpNumber" href="https://beian.miit.gov.cn/" target="_blank">{{ icpNumber }}</a>
+      <span>© 2024</span><a href="https://blog.zrf.me" target="_blank">周润发</a>
       <button class="logo-btn" @click="toggleTips">小提示</button>
     </div>
   </footer>
@@ -32,8 +31,7 @@
 export default {
   data() {
     return {
-      showTipsPopup: false,
-      icpNumber: process.env.VUE_APP_ICP_NUMBER
+      showTipsPopup: false
     };
   },
   methods: {
