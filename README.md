@@ -35,6 +35,8 @@ Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社�
   > Node.js 20.19.0+ 或 22.12.0+
   > npm 10+
 
+  Cloudflare Pages 会通过项目根目录的 `.node-version` 使用 Node.js 22.14.0。
+
 * 然后以 **管理员权限** 运行 `cmd` 终端，并 `cd` 到 项目根目录
 * 在 `终端` 中输入：
 
